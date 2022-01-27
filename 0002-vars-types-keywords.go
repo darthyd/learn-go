@@ -16,7 +16,7 @@ func main() {
 	// initialize and declare the var value
 	nonInit = "initialize and declare"
 
-	fmt.Println(nonInit, "\n") // you can go to a new line with a \n into a string
+	fmt.Println(nonInit) // you can go to a new line with a \n into a string
 
 	// vars declaration
 	// in var declaration, the type is optional
