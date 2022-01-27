@@ -29,5 +29,9 @@ func main() {
 
 }
 
+// DOCS:
+// https://pkg.go.dev/fmt
 
-//https://pkg.go.dev/fmt
+// fmt basics
+// Made on Go Playground
+// https://go.dev/play/p/a8_35w8tTIo
